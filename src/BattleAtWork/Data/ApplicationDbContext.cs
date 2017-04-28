@@ -23,6 +23,6 @@ namespace BattleAtWork.Data
             // Add your customizations after calling base.OnModelCreating(builder);
         }
         public DbSet<Games> Games { get; set; }
-        public DbSet<ApplicationUser> Users { get; set; }
+        
     }
 }

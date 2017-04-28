@@ -1,5 +1,5 @@
---temp-output:C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\src\BattleAtWork\obj\Debug\netcoreapp1.0\
---out:C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\src\BattleAtWork\bin\Debug\netcoreapp1.0\BattleAtWork.dll
+--temp-output:C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\src\BattleAtWork\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\src\BattleAtWork\bin\Debug\netcoreapp1.0\BattleAtWork.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -229,35 +229,39 @@
 --reference:C:\Users\Karim\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Karim\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Karim\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\src\BattleAtWork\obj\Debug\netcoreapp1.0\BattleAtWorkdotnet-compile.deps.json",BattleAtWork.deps.json
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Program.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Startup.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\AccountController.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\HomeController.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\ManageController.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\ApplicationDbContext.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\00000000000000_CreateIdentitySchema.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\20170428195414_Init.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\20170428195414_Init.Designer.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\ApplicationDbContextModelSnapshot.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ApplicationUser.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\ForgotPasswordViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\LoginViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\RegisterViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\ResetPasswordViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\SendCodeViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\VerifyCodeViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\AddPhoneNumberViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\ChangePasswordViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\ConfigureTwoFactorViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\FactorViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\IndexViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\ManageLoginsViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\RemoveLoginViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\SetPasswordViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Services\IEmailSender.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Services\ISmsSender.cs
-C:\users\karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Services\MessageServices.cs
+--resource:"C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\src\BattleAtWork\obj\Debug\netcoreapp1.0\BattleAtWorkdotnet-compile.deps.json",BattleAtWork.deps.json
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Program.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Startup.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\AccountController.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\APIController.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\HomeController.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\ManageController.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\ApplicationDbContext.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\00000000000000_CreateIdentitySchema.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\00000000000000_CreateIdentitySchema.Designer.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\20170428195414_Init.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\20170428195414_Init.Designer.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\20170428211356_N.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\20170428211356_N.Designer.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Data\Migrations\ApplicationDbContextModelSnapshot.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ApplicationUser.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\Games.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\ForgotPasswordViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\LoginViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\RegisterViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\ResetPasswordViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\SendCodeViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\AccountViewModels\VerifyCodeViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\AddPhoneNumberViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\ChangePasswordViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\ConfigureTwoFactorViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\FactorViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\IndexViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\ManageLoginsViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\RemoveLoginViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\SetPasswordViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Services\IEmailSender.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Services\ISmsSender.cs
+C:\Users\Karim\Documents\Visual Studio 2015\Projects\BattleAtWork\src\BattleAtWork\Services\MessageServices.cs

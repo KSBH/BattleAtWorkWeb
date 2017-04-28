@@ -1,12 +1,12 @@
---temp-output:C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\obj\Debug\netcoreapp1.0\
---out:C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\Debug\netcoreapp1.0\BattleAtWork.dll
---define:DEBUG
+--temp-output:C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\obj\Release\netcoreapp1.0\
+--out:C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\bin\Release\netcoreapp1.0\BattleAtWork.dll
+--define:RELEASE
 --define:TRACE
 --define:NETCOREAPP1_0
 --suppress-warning:CS1701
 --suppress-warning:CS1702
 --suppress-warning:CS1705
---optimize:False
+--optimize:True
 --emit-entry-point:True
 --output-name:BattleAtWork
 --file-version:1.0.0.0
@@ -229,7 +229,7 @@
 --reference:C:\Users\Karim\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Karim\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Karim\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\obj\Debug\netcoreapp1.0\BattleAtWorkdotnet-compile.deps.json",BattleAtWork.deps.json
+--resource:"C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\obj\Release\netcoreapp1.0\BattleAtWorkdotnet-compile.deps.json",BattleAtWork.deps.json
 C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Program.cs
 C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Startup.cs
 C:\Users\Karim\documents\visual studio 2015\Projects\BattleAtWork\src\BattleAtWork\Controllers\AccountController.cs
