@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAumAsnTdYSUKsAGULSOJBYgAAAAACAAAAAAAQZgAAAAEAACAAAABbHrWOysRO/UT7K3ZwBur/tSFJF9ENB3lewHfkIRE4pwAAAAAOgAAAAAIAACAAAAAlF9WubLPPl2cla2NQpF1AlaQziRHwOtJuInFSf9wZL4AAAADKu+FymDzdi7PkjjxBcD2QQj//xyeTHAtjOkfS/gTrhzJqlNj8F1ESf6DPJKsT2FgpIqhZBTD1z3GUTeXGSvY1nQrThV3Ikb8hk5+8S++8oo5+nnmqWiRR74FsjxORwYaQSAxTE+UJwPbNtiRXFS3tXAMgXg/uyu3xSYzpNaCIr0AAAABXR3nuC1ozrBkFuG+hw/KKwIq3P7CtDkfJcUfPq4JYQJ+ifHirMoMQ028UsjfDYSb5/SkzlTzHM2HxlW+eWDPg</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:workatbattle.database.windows.net,1433;Initial Catalog=workatbattle;User Id=karim@workatbattle.database.windows.net;Password=Test1234$;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EfMigrations Include="BattleAtWork.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:workatbattle.database.windows.net,1433;Initial Catalog=workatbattle;User Id=karim@workatbattle.database.windows.net;Password=Test1234$;</Value>
+    </EfMigrations>
+  </ItemGroup>
+</Project>

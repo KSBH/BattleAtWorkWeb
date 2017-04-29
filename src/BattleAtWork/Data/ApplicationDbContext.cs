@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using BattleAtWork.Models;
+using BattleAtWork_WebApi.Model_EF;
 
 namespace BattleAtWork.Data
 {
@@ -22,7 +23,10 @@ namespace BattleAtWork.Data
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
         }
-        public DbSet<Games> Games { get; set; }
-        
+        public DbSet<Game> Game { get; set; }
+        public DbSet<Tournament> Tournament { get; set; }
+        public DbSet<Enterprise> Enterprise { get; set; }
+        public DbSet<Match> Match { get; set; }
+        public DbSet<MatchUser> MatchUser { get; set; }
     }
 }
